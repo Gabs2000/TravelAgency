@@ -1,0 +1,13 @@
+/* Tenemos opcion de utilizar Bulma */
+
+/* ----- General Styles ----- */
+
+/* ----- Carousel ----- */
+.carousel-item {
+  height: 800px;
+  width: auto;
+}
+
+.navbar-custom {
+  height: 163px;
+}

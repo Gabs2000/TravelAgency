@@ -1,2 +1,4 @@
 # TravelAgency
-Draft for a travel agency web page
+
+Welcome to our travel agency, this is currently under development.
+Thanks for visiting.
